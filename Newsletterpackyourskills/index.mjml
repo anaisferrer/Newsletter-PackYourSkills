@@ -2,20 +2,20 @@
   <mj-head>
     <mj-style inline="inline">
 
-      .link-nostyle { max-width: 300px; height: 200px; background: white; position: relative; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; border:3px solid #069; border-color:grey; } 
+      .link-nostyle { max-width: 300px; height: 230px; background: white; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; border:3px solid #069; border-color:grey;} 
       
-      .link-nostyle:before { content:""; position: absolute;
-      right: 100%; top:70px; width: 0; height:0; border-top: 10px solid transparent; border-right: 26px solid grey; border-bottom: 13px solid transparent; } 
+    
       
-      .about{ height: 190px; max-width: 100%; background: white; border-left: 3px solid ; border-right: 3px
+      .about{ height: 150px; max-width: 100%; background: white; border-left: 3px solid ; border-right: 3px
       solid ; border-bottom:3px solid ; border-top: 3px solid ; border-color:grey; background-image:url(http://res.cloudinary.com/djp2k6ywx/image/upload/v1526374182/question.png); background-repeat: no-repeat; background-size: 9%; background-position:
-      right; }
+     right; }
       
       .about p{
         padding-right: 45px;
       font-size:15px
+      text-align:center;
       }
-.link-nostyle p{
+.link-nostyle p{       
       padding: 15px;
       font-size: 15px;
       line-height:1;
@@ -26,19 +26,19 @@
 
   </mj-head>
   <mj-body background-color="#white">
-    <mj-raw>
+    <mj-text>
 
-    </mj-raw>
+    </mj-text>
     <mj-section padding-bottom="20px" background-color="white">
       <mj-group>
       <mj-column width="40%">
-        <mj-text padding="0px" font-size="15px" align="left">Pack Your Skills</mj-text>
+        <mj-text padding-right="10px" font-size="15px">Pack Your Skills</mj-text>
       </mj-column>
       <mj-column width="20%">
         <mj-image href="#" src="http://res.cloudinary.com/djp2k6ywx/image/upload/v1526374182/LogoF.png" width="90px" padding="0"></mj-image>
       </mj-column>
       <mj-column width="40%">
-        <mj-text font-size="14px" align="right" padding="0px">MAI</mj-text>
+        <mj-text font-size="14px"padding-left="190px">MAI</mj-text>
       </mj-column>
         </mj-group>
     </mj-section>
@@ -47,7 +47,7 @@
         <mj-image src="" width="100%"></mj-image>
       </mj-column>
     </mj-section>
-    <mj-section background-url="http://res.cloudinary.com/djp2k6ywx/image/upload/v1526559089/font_triangle_v_Plan_de_travail_1.png" background-repeat="no-repeat" background-size="cover" width="700px" font-family="open-sans" font-size="15px" padding-top="30px">
+    <mj-section background-url="http://res.cloudinary.com/djp2k6ywx/image/upload/v1526984332/TriangleV_Plan_de_travail_1.jpg" background-repeat="no-repeat" background-size="cover" padding-top="35px">
       <mj-column width="33%">
         <mj-text align="center">STEP 1</mj-text>
         <mj-image src="http://res.cloudinary.com/djp2k6ywx/image/upload/v1526377837/home.process1.png"></mj-image>
@@ -67,39 +67,39 @@
       <mj-column width="100%">
         <mj-button href="#" padding-top="40px" align="center" font-family="open-sans" font-size="20px" background-color="#f45e43" color="white" width=>
           Commencer maintenant</mj-button>
-        <mj-image src="http://res.cloudinary.com/djp2k6ywx/image/upload/v1526554296/Pouce-sans.png" width="40px"></mj-image>
+        <mj-image src="http://res.cloudinary.com/djp2k6ywx/image/upload/v1526554296/Pouce-sans.png" width="30px"></mj-image>
       </mj-column>
     </mj-section>
-    <mj-raw>
+    <mj-text>
 
 
       <!-- Editor -->
-    </mj-raw>
+    </mj-text>
 
-    <mj-section background-url="http://res.cloudinary.com/djp2k6ywx/image/upload/v1526559305/font_triangle_B_Plan_de_travail_1.png" background-repeat="no-repeat" background-size="cover" font-family="open-sans" font-size="15px" padding-bottom="150px">
+ <mj-section background-url="http://res.cloudinary.com/djp2k6ywx/image/upload/v1526979890/Image_B_Plan_de_travail_1.jpg" background-repeat="no-repeat" background-size="cover"  padding-bottom="100px" padding-top="100px">
       <mj-column width="40%">
-        <mj-image src="http://res.cloudinary.com/djp2k6ywx/image/upload/v1526374182/home.nikol.jpg">
+        <mj-image src="http://res.cloudinary.com/djp2k6ywx/image/upload/v1526374182/home.nikol.jpg" >
         </mj-image>
       </mj-column>
       <mj-column width="50%">
-        <mj-raw>
-          <div class="link-nostyle" align="center"> <p>Pack your skills gave me one of the best opportunities in my life. I got a chance to experience an amazing social entrepreneurship and spend two wonderful weeks in Paris. If I had a chance to work with pack your skills again I wouldn't
+        <mj-text>
+          <div class="link-nostyle" align="center" > <p>Pack your skills gave me one of the best opportunities in my life. I got a chance to experience an amazing social entrepreneurship and spend two wonderful weeks in Paris. If I had a chance to work with pack your skills again I wouldn't
             doubt for a minute. I met amazing people and made new friends, and I can't be more grateful for it."</p>
           </div>
-        </mj-raw>
+        </mj-text>
       </mj-column>
     </mj-section>
 
-    <mj-section padding="0px" >
+    <mj-section padding="0px" background-color="white">
       <mj-column width="auto">
 
-        <mj-raw>
+        <mj-text>
           <div class="about" align=" center" padding-top="0px">
            <h3><br>A PROPOS DE NOUS</br>
             </h3>
             <p><br>Pack Your Skills est une plateforme web qui permet aux voyageurs de s'investir dans des projets sociaux ou environnementaux en offrant leurs compétences en échange du gîte et du couvert.</br></p>
           </div>
-        </mj-raw>
+        </mj-text>
 
       </mj-column>
 
