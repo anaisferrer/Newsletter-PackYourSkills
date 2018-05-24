@@ -1,6 +1,6 @@
 <mjml>
   <mj-head>
-    <mj-style align="inline">
+    <mj-style inline="inline">
 
       .link-nostyle { max-width: 300px; height: 230px; background: white; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; border:3px solid; border-color:grey;} 
       
@@ -55,7 +55,7 @@
       </mj-column>
       </mj-group>
     </mj-section>
-    <mj-section background-url="http://res.cloudinary.com/djp2k6ywx/image/upload/v1526984332/TriangleV_Plan_de_travail_1.jpg" background-repeat="no-repeat" background-size="cover" padding-top="0px" padding-bottom="0px">
+    <mj-section background-url="http://res.cloudinary.com/djp2k6ywx/image/upload/v1527151942/fond-rondV_Plan_de_travail_1.jpg" background-repeat="no-repeat" background-size="cover">
          <mj-group>
 
       <mj-column width="33%">
@@ -87,7 +87,7 @@
       <!-- Editor -->
     </mj-text>
 
- <mj-section background-url="http://res.cloudinary.com/djp2k6ywx/image/upload/v1526979890/Image_B_Plan_de_travail_1.jpg" background-repeat="no-repeat" background-size="cover"  padding-bottom="50px" padding-top="0px">
+ <mj-section background-url="http://res.cloudinary.com/djp2k6ywx/image/upload/v1527152269/fond-rondB_Plan_de_travail_1.jpg" background-repeat="no-repeat" background-size="cover">
    <mj-group>
       <mj-column width="40%">
         <mj-image src="http://res.cloudinary.com/djp2k6ywx/image/upload/v1526374182/home.nikol.jpg" >
@@ -117,7 +117,7 @@
       </mj-column>
 
     </mj-section>
-    <mj-wrapper background-url="http://res.cloudinary.com/djp2k6ywx/image/upload/v1526638478/Sans-titre---3.png" background-repeat="no-repeat" background-size="cover" padding-bottom="20px">
+    <mj-wrapper background-url="http://res.cloudinary.com/djp2k6ywx/image/upload/v1527152769/fond-rondR_Plan_de_travail_1_Plan_de_travail_1.jpg" background-repeat="no-repeat" background-size="cover">
 
       <mj-section>
         <mj-group>
