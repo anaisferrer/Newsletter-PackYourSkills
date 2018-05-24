@@ -2,19 +2,38 @@
   <mj-head>
     <mj-style inline="inline">
 
-      .link-nostyle { max-width: 300px; height: 230px; background: white; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; border:3px solid; border-color:grey;} 
+      .link-nostyle { 
+      max-width: 300px; 
+      height: 230px; 
+      background: white; 
+      -moz-border-radius: 10px; 
+      -webkit-border-radius: 10px; 
+      border-radius: 10px; 
+      border:3px solid; 
+      border-color:grey;} 
       
     
       
-      .about{ height: 150px; max-width: 100%; background: white; border-left: 3px solid ; border-right: 3px
-      solid ; border-bottom:3px solid ; border-top: 3px solid ; border-color:grey; background-image:url(http://res.cloudinary.com/djp2k6ywx/image/upload/v1526374182/question.png); background-repeat: no-repeat; background-size: 9%; background-position:
-     right; }
+      .about{ 
+      height: 150px; 
+      max-width: 100%; 
+      background: white; 
+      border-left: 3px solid ; 
+      border-right: 3px solid ; 
+      border-bottom:3px solid ; 
+      border-top: 3px solid ; 
+      border-color:grey; 
+      background-image:url(http://res.cloudinary.com/djp2k6ywx/image/upload/v1526374182/question.png); 
+      background-repeat: no-repeat; 
+      background-size: 9%; 
+      background-position: right; }
       
       .about p{
-        padding-right: 45px;
+      padding-right: 45px;
       font-size:15px
       text-align:center;
       }
+      
 .link-nostyle p{       
       padding: 15px;
       font-size: auto;
